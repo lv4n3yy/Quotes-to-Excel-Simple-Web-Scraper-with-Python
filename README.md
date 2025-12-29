@@ -5,7 +5,7 @@ This project demonstrates how to build a simple web scraper in Python that:
 - Extracts the quote text, author, and tags with BeautifulSoup
 - Saves the results into an Excel file using pandas
 
-- ![How it looks like](Screenshot%202025-12-29%20at%2016.21.37.png)
+  ![How it looks like](Screenshot%202025-12-29%20at%2016.21.37.png)
 
 
 ## Features
